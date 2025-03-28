@@ -10,6 +10,7 @@ I'm Saurabh Sulikeri from Bengaluru, India
 - ⚡ In my free time | I upskill myself | Play games | Roam
 - 👨‍🎓 Passionate about sharing knowledge and learning new tech!
 - 📧 Gmail: saurabhvsulikeri@gmail.com
+- 📧 Linkedin: www.linkedin.com/in/saurabh-sulikeri
 - ☎️ Whatsapp/Call: +91 9716660054
 - 🔥 *"Keep learning, keep growing!"*
 
@@ -22,5 +23,6 @@ I'm Saurabh Sulikeri from Bengaluru, India
 - Version control system - Git , Microsoft TFS
 - CI/CD - Jenkins
 - Project Mgmt tools - Jira, Confluence
+
 
 
