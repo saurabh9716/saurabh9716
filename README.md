@@ -1,6 +1,6 @@
 👩‍💻 About Me
 
-I'm Saurabh Sulikeri from Bengaluru, India | Currently in Aucklnad , NewZeland
+I'm Saurabh Sulikeri from Bengaluru, India | Currently in Auckland , NewZeland
 
 🚀 DevOps Engineer | Telecom BSS Ops/Config/Migrate | Cloud Enthusiast 
 
