@@ -20,6 +20,7 @@ I'm Saurabh Sulikeri from Bengaluru, India | Currently in Aucklnad , NewZeland
 - Scripting - Shell Scripting , Ruby , YAML , Python (intermediate)
 - Oracle - SQL , PLSQL
 - Containerization - Docker, Kubernetes
+- Automation - BMC Control-M
 - Version control system - Git , Microsoft TFS
 - CI/CD - Jenkins
 - Project Mgmt tools - Jira, Confluence
